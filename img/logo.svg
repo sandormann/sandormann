@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="240" height="110" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#ffffff" transform="matrix(2.2993521690368652,0,0,2.307692289352417,-288.4561815261841,-247.1538426876068) " font-weight="bold" fill="#0000ff" stroke-width="0" stroke-dasharray="2,2" stroke-linejoin="round" stroke-linecap="round" opacity="0.7" x="199.722716" y="140.233333" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">GCM</text>
+  <ellipse stroke="#ffffff" ry="41" rx="49" id="svg_2" cy="53" cx="52" stroke-width="5" fill="#303dad"/>
+  <text font-weight="bold" stroke="#ffffff" transform="matrix(4.00568387654701,0,0,2.3055448959466394,-514.5839600142638,-295.09402401129825) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="156.127283" x="143.704569" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffff">S</text>
+  <rect id="svg_6" height="2" width="9" y="341" x="194" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#ffffff" fill="#ffffff"/>
+  <rect stroke="#ffffff" id="svg_11" height="6" width="114.99999" y="81" x="114" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="#0000ff"/>
+ </g>
+</svg>
